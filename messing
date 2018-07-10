@@ -1,0 +1,3 @@
+var dog= "hungry"
+if (dog === "hungry") {
+console.log("Im hungry")
